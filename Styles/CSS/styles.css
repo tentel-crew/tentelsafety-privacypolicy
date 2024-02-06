@@ -19,6 +19,11 @@ body
   font-size: 20px;
 }
 
+.titlecontent
+{
+  font-size: 25px;
+}
+
 hr
 {
     width: 100%; /* ширина линии */
